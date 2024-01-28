@@ -1,0 +1,5 @@
+week1/docker/my_taxi_postgres_data/
+**/__pycache__/
+*.csv*
+*.gz
+*.parquet
